@@ -4,13 +4,13 @@
 
 Características
 
-- 📝 Crear un nuevo tópico
-- 📖 Mostrar todos los tópicos creados
-- 🔍 Mostrar un tópico específico
-- ✏️ Actualizar un tópico
-- 🗑️ Eliminar un tópico
-- ✔️ Validaciones de las reglas de negocio
-- 🔒 Autenticación y autorización de usuarios
+-  Crear un nuevo tópico
+-  Mostrar todos los tópicos creados
+-  Mostrar un tópico específico
+-  Actualizar un tópico
+-  Eliminar un tópico
+-  Validaciones de las reglas de negocio
+-  Autenticación y autorización de usuarios
 
 Tecnologías Utilizadas
 
